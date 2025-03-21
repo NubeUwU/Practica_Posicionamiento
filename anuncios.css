@@ -1,5 +1,5 @@
 h1{
-    background-color: gray;
+    background-color: rgb(161, 158, 158);
     margin: 0;
 
 }
@@ -8,9 +8,14 @@ h2{
     background-color: lightgray;
     margin: 0;
     padding-top: 10px;
+
 }
 
 .bloque{
-    position:relative;
+    display: inline-table;
+    width: 300px;
+    margin-top: 0;
+    border-left: 2px dotted black;
+    border-right: 2px dotted black;
 
 }
