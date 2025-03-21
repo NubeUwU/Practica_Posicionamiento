@@ -11,6 +11,13 @@ h2{
 
 }
 
+h4{
+    background-color: rgb(153, 149, 149);
+    color: white;
+    text-align: right;
+    padding-right: 10px;
+}
+
 .bloque{
     display: inline-table;
     width: 300px;
