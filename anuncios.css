@@ -1,4 +1,20 @@
+body{
+    
+}
+
+h1{
+    background-color: gray;
+    margin: 0;
+
+}
+
+h2{
+    background-color: lightgray;
+    margin: 0;
+    padding-top: 10px;
+}
+
 .bloque{
-    background-color: aqua;
+    position:relative;
 
 }
